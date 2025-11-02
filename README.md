@@ -20,7 +20,7 @@ Scalable modular structure for easy extension
 
 ## Installation
 Clone the Repository
-git clone https://github.com/rishi0588/nndl-project.git
+git clone https://github.com/rishi0588/Deep-Learning-Based-Value-at-Risk-VaR-Project
 cd nndl-project
 
 ## Install Dependencies
