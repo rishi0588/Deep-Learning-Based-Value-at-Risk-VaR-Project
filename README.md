@@ -114,4 +114,4 @@ All scripts are modular — you can retrain, backtest, or regenerate reports ind
 
 Ideal for financial risk research, deep learning experimentation, and academic submission.
 
-⭐ Clone, Run, and Explore Deep Learning–Driven Financial Risk Analysis!
+# Clone, Run, and Explore Deep Learning–Driven Financial Risk Analysis!
